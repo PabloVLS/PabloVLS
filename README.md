@@ -34,7 +34,7 @@ Fique à vontade para explorar os projetos e fornecer feedback ou sugestões.
 - [ ] Desenvolver uma aplicação web completa.
 - [ ] Aprender novas linguagens de programação.
 - ...
-![Logo da Linguagem de Programação C](c)
+
 ## Linguagens Em aprendizado
  
 C HTML5 CSS3 Java MySql  
