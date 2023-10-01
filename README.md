@@ -35,14 +35,7 @@ Fique à vontade para explorar os projetos e fornecer feedback ou sugestões.
 - [ ] Aprender novas linguagens de programação.
 - ...
 
-## Contribuição
+## Linguagens Em aprendizado
+ 
+C HTML5 CSS3 Java MySql  
 
-Se você quiser contribuir com algum projeto ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua contribuição é muito bem-vinda!
-
-## Agradecimentos
-
-Agradeço a todos que me apoiam nesta jornada de aprendizado em Análise e Desenvolvimento de Sistemas.
-
----
-
-Sinta-se à vontade para personalizar este README de acordo com suas informações e progresso. Boa sorte em sua jornada de estudos e desenvolvimento! 😊
