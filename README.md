@@ -25,7 +25,6 @@ Aqui estão alguns dos projetos em que estou trabalhando:
 2. ...
 3. ...
 
-Fique à vontade para explorar os projetos e fornecer feedback ou sugestões.
 
 
 ## Objetivos Futuros
