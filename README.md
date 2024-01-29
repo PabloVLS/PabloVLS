@@ -1,6 +1,6 @@
 <h1 align="center">Pablo Vinicius Lima Souza</h1>
 
-<h5 align="center">Estudante de Análise e Desenvolvimento de Sistemas !</h5>
+<h5 align="center"> Análista e Desenvolvedor de Sistemas !</h5>
 
 <p align="center">
 	<a href="https://gist.github.com/PabloVLS">
