@@ -17,6 +17,10 @@
 	</a>	
 </p>
 
+<p>
+	![profile count](https://komarev.com/ghpvc/?username=LucasLubiL&color=5B0EC0&style=flat-square)&nbsp;
+</p>
+
 <br>
 
 <h4 align="center">Algumas Tecnologias , Linguagens , Frameworks e outros<h4/>
