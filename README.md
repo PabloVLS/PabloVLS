@@ -18,7 +18,7 @@
 </p>
 
 <br>
-	![profile count](https://komarev.com/ghpvc/?username=PabloVLS&color=5B0EC0&style=flat-square)&nbsp;
+
 <h4 align="center">Algumas Tecnologias , Linguagens , Frameworks e outros<h4/>
 
 <p align="center">
@@ -92,8 +92,9 @@
 </p>
 
 </br>
-
-![profile count](https://komarev.com/ghpvc/?username=PabloVLS&color=5B0EC0&style=flat-square)&nbsp;
+<p align="center">
+[profile count](https://komarev.com/ghpvc/?username=PabloVLS&color=5B0EC0&style=flat-square)&nbsp;
+</p>
 <!--START_SECTION:mydata
 
 ```json
