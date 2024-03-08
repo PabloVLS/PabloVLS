@@ -1,7 +1,5 @@
 <h1 align="center">Pablo Vinicius Lima Souza</h1>
 
-    [profile count](https://komarev.com/ghpvc/?username=PabloVLS&color=5B0EC0&style=flat-square)&nbsp;
-
 <h5 align="center"> Análista e Desenvolvedor de Sistemas !</h5>
 
 <p align="center">
