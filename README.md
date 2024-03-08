@@ -17,7 +17,7 @@
 	</a>	
 </p>
 
-<p>
+<p align="center">
 	![profile count](https://komarev.com/ghpvc/?username=PabloVLS&color=5B0EC0&style=flat-square)&nbsp;
 </p>
 
