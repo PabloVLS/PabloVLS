@@ -18,11 +18,11 @@
 </p>
 
 
-	![profile count](https://komarev.com/ghpvc/?username=PabloVLS&color=5B0EC0&style=flat-square)&nbsp;
+	![profile count](https://komarev.com/ghpvc/?username=gvoliveira&color=5B0EC0&style=flat-square)&nbsp;
 
 
 <br>
-
+	![profile count](https://komarev.com/ghpvc/?username=gvoliveira&color=5B0EC0&style=flat-square)&nbsp;
 <h4 align="center">Algumas Tecnologias , Linguagens , Frameworks e outros<h4/>
 
 <p align="center">
