@@ -92,8 +92,8 @@
 </p>
 
 </br>
-<center>
-[profile count](https://komarev.com/ghpvc/?username=PabloVLS&color=5B0EC0&style=flat-square)&nbsp;
+
+![profile count](https://komarev.com/ghpvc/?username=PabloVLS&color=5B0EC0&style=flat-square)&nbsp;
 
 <!--START_SECTION:mydata
 
