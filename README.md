@@ -92,9 +92,9 @@
 </p>
 
 </br>
-<p align="center">
+<center>
 [profile count](https://komarev.com/ghpvc/?username=PabloVLS&color=5B0EC0&style=flat-square)&nbsp;
-</p>
+
 <!--START_SECTION:mydata
 
 ```json
