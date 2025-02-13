@@ -2,7 +2,10 @@
 
 <h5 align="center"> Análista e Desenvolvedor de Sistemas !</h5>
 
-[![via Giphy](https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif)](https://giphy.com/gifs/pudgypenguins-work-tired-night-shift-25Itcrcuwkyq3ohubJ)
+<p align="center">
+  <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
+</p>
+
 
 
 <p align="center">
