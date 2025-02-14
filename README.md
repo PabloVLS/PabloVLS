@@ -95,6 +95,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </picture>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
@@ -110,11 +115,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </picture>
+
 </p>
 
 
