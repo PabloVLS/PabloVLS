@@ -6,12 +6,11 @@
   </a>
 </p>
 
-
-
-
-<p                         align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
 </p>
+
+<br><br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=ff9494&area=true&hide_border=true" alt="GitHub Activity Graph"/>
@@ -41,18 +40,14 @@
 
 
 
-
+<br><br><br><br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PabloVLS&show_icons=true&count_private=true&hide_border=true&title_color=00C853&icon_color=00C853&text_color=c9d1d9&bg_color=0d1117" alt="Pablo Vinicius GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&hide_border=true&title_color=00C853&text_color=00C853&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
-  <a href="https://instagram.com/seu_instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> 
-</div>
+
  
 
 
