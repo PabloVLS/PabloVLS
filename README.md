@@ -6,7 +6,8 @@
   <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
 </p>
 
-[![PabloVLS](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![PabloVLS](https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
