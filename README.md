@@ -27,6 +27,42 @@
 	</a>	
 </p>
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C853&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pablo+Vinicius;I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PabloVLS&show_icons=true&count_private=true&hide_border=true&title_color=00C853&icon_color=00C853&text_color=c9d1d9&bg_color=0d1117" alt="Pablo Vinicius GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&hide_border=true&title_color=00C853&text_color=00C853&bg_color=0d1117" />
+</div>
+
+<div align="center"> 
+  <a href="https://instagram.com/seu_instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> 
+</div>
+ 
+### 📚Here you can find some projects developed during my study journey
+<div style="display: inline_block">
+  <br>
+  <img alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Pablo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Pablo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img alt="Pablo-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img alt="Pablo-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"/>
+
+
+
+
 <br>
 
 <h4 align="center">Algumas Tecnologias , Linguagens , Frameworks e outros<h4/>
