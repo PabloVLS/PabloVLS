@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B4045F&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=header"/>
+
 
 
 <h1 align="center">Pablo Vinicius Lima Souza</h1>
