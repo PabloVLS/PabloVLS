@@ -5,17 +5,21 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=800&pause=1000&color=09CD00&size=32&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+Bem-Vindo!+%F0%9F%98%83%F0%9F%92%BB;Meu+nome+%C3%A9+Pablo!+%F0%9F%91%8B%F0%9F%98%8A;Bora+codar+UAI!+%F0%9F%9A%80%F0%9F%94%A5%F0%9F%94%BA" alt="TypingSVG" style="max-width: 130%; height: auto;"/>
   </a>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PabloVLS/PabloVLS/main/linha_verde_branco.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);">
+</p>
 </p>
 
-
-</p>
+<br><br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
 </p>
 
 <br><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);">
+</p>
+<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=ff9494&area=true&hide_border=true" alt="GitHub Activity Graph"/>
@@ -23,10 +27,13 @@
 
 
 
+<br><br><br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);">
+</p>
 
-
-
+<br><br>
 
 <p align="center">
 	<a href="https://gist.github.com/PabloVLS">
@@ -45,7 +52,7 @@
 
 
 
-<br><br><br><br>
+<br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PabloVLS&show_icons=true&count_private=true&hide_border=true&title_color=00C853&icon_color=00C853&text_color=c9d1d9&bg_color=0d1117" alt="Pablo Vinicius GitHub Stats" /> 
@@ -58,6 +65,10 @@
 
 
 
+<br><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);">
+</p>
 <br>
 
 <h4 align="center">Algumas Tecnologias , Linguagens , Frameworks e outros<h4/>
