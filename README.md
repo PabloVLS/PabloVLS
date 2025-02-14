@@ -6,11 +6,14 @@
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=ff9494&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
 
 
 
