@@ -142,3 +142,4 @@
 
 <!--END_SECTION:mydata-->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"/>
