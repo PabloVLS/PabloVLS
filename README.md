@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=00C853&height=300&section=header&text=PabloVLS&fontSize=90&fontColor=ffffff)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B4045F&height=120&section=header"/>
 
 
 <h1 align="center">Pablo Vinicius Lima Souza</h1>
