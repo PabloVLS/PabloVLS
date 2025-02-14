@@ -1,18 +1,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=header"/>
 
-
-
 <p align="center"> 
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?		 
-	font=Press+Start+2P&weight=500&pause=1000&color=09CD00&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+Bem-		 
-    	Vindo!+%F0%9F%98%83%F0%9F%92%BB;Meu+nome+%C3%A9+Pablo+Vinicius!+%F0%9F%91%8B%F0%9F%98%8A;Bora+codar+UAI!+%F0%9F%92%BB%F0%9F%9A%80%F0%9F%94%A5%F0%9F%94%BA" 		 
-        alt="TypingSVG"/</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=500&pause=1000&color=09CD00&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+Bem-Vindo!+%F0%9F%98%83%F0%9F%92%BB;Meu+nome+%C3%A9+Pablo+Vinicius!+%F0%9F%91%8B%F0%9F%98%8A;Bora+codar+UAI!+%F0%9F%92%BB%F0%9F%9A%80%F0%9F%94%A5%F0%9F%94%BA" alt="TypingSVG" />
+  </a>
 </p>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
 </p>
+
 
 
 
