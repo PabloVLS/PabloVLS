@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=800&pause=1000&color=09CD00&size=32&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+Bem-Vindo!+%F0%9F%98%83%F0%9F%92%BB;Meu+nome+%C3%A9+Pablo!+%F0%9F%91%8B%F0%9F%98%8A;Bora+codar+UAI!+%F0%9F%9A%80%F0%9F%94%A5%F0%9F%94%BA" alt="TypingSVG" style="max-width: 130%; height: auto;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=800&pause=1000&color=09CD00&size=32&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+Bem-Vindo!+%F0%9F%98%83%F0%9F%92%BB;Meu+nome+%C3%A9+Pablo !+%F0%9F%91%8B%F0%9F%98%8A;Bora+codar+UAI!+%F0%9F%9A%80%F0%9F%94%A5%F0%9F%94%BA" alt="TypingSVG" style="max-width: 130%; height: auto;"/>
   </a>
 <p align="center">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);">
