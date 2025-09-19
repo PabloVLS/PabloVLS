@@ -76,11 +76,80 @@
 <p align="center">
 
 <p align="center">
+	<!-- Spring -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+</picture>
+
+<!-- Maven -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+</picture>
+
+<!-- Servlet -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Servlet-3C873A?style=for-the-badge&logo=java&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Servlet-3C873A?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Servlet-3C873A?style=for-the-badge&logo=java&logoColor=white" alt="Servlet"/>
+</picture>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </picture>
+  <!-- PostgreSQL -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</picture>
+<!-- Angular -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+</picture>
+
+<!-- React -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</picture>
+
+<!-- PrimeNG -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PrimeNG-007AD9?style=for-the-badge&logo=primeng&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PrimeNG-007AD9?style=for-the-badge&logo=primeng&logoColor=white">
+  <img src="https://img.shields.io/badge/PrimeNG-007AD9?style=for-the-badge&logo=primeng&logoColor=white" alt="PrimeNG"/>
+</picture>
+
+<!-- Git -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</picture>
+
+<!-- IntelliJ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+</picture>
+
+<!-- WebStorm -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
+</picture>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
