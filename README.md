@@ -36,6 +36,13 @@
 <br><br>
 
 <p align="center">
+	<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/pablo_vls_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</picture>
 	<a href="https://pt.stackoverflow.com/users/344585/pablo-vinicius?tab=profile">
 		<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 	</a>
