@@ -54,8 +54,8 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloVLS&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=PabloVLS&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PabloVLS&show_icons=true&theme=visionary&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&theme=visionary&hide_border=true" />
 </div>
 <h3 align="center">Tech Stack & Tools 🛠️</h3>
 
