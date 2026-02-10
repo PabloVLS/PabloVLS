@@ -53,13 +53,14 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloVLS&show_icons=true&count_private=true&hide_border=true&title_color=00C853&icon_color=00C853&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&hide_border=true&title_color=00C853&text_color=00C853&bg_color=0d1117" width="41%" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloVLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);" alt="Decorative rainbow" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
 </p>
 <h3 align="center">Tech Stack & Tools 🛠️</h3>
 
