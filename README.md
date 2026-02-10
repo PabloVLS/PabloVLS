@@ -19,6 +19,11 @@
 </p>
 
 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PabloVLS&show_icons=true&theme=visionary&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&theme=visionary&hide_border=true" />
+</div>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=ff9494&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
