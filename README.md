@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 <br>
@@ -52,10 +52,10 @@
 </p>
 
 <br>
-
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PabloVLS&theme=tokyonight&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
+
 <h3 align="center">Tech Stack & Tools 🛠️</h3>
 
 <p align="center">
