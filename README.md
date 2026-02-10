@@ -16,9 +16,6 @@
   <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);">
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=ff9494&area=true&hide_border=true" alt="GitHub Activity Graph"/>
