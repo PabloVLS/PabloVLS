@@ -21,9 +21,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloVLS&show_icons=true&theme=visionary&rank_icon=github&hide_border=true" />
-</p>
 
 <br>
 
