@@ -188,34 +188,3 @@
 <br>
 
 ![profile count](https://komarev.com/ghpvc/?username=PabloVLS&color=5B0EC0&style=flat-square)
-
-{
-   "Will": {
-      "CurrentFocus": "Getting better at my skills",
-      "HowDoISeeMyselfIn5Years": "As the best SysAdmin I can be",
-      "CurrentStackOverflowReputation": "2,710",
-      "Favorites": {
-         "OperationalSystem": "Arch Linux",
-         "GUI": "XFCE",
-         "Kernel": "Zen",
-         "Interpreter": "ZSH",
-         "IDE": "Sublime text",
-         "Language": "Python",
-         "MobileOS": "Android",
-         "Games": ["Chrono Trigger", "Driver: Parallel Lines", "Watch Dogs"],
-         "Music": {
-            "Genres": ["Hip Hop", "Lo-fi", "Jazz"],
-            "Songs": ["MF DOOM - Datura stramonium", "MF DOOM - One beer", "Quasimodo - Bad character"],
-            "Artists": ["MF DOOM", "Rav", "Mac DeMarco"]
-         }
-      }
-   },
-   "RandomStuff": {
-      "FunFactOfTheDay": "The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.",
-      "CoolAdviceOfTheDay": "Eliminate the unnecessary.",
-      "DadJokeOfTheDay": "Why can't eggs have love? They will break up too soon.",
-      "IsTodayChristmas": "Not this time",
-      "IsTodayMyBirthday": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8d4weq.jpg"
-   }
-}
