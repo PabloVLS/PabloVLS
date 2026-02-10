@@ -6,16 +6,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);">
-</p>
 
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
-</p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloVLS&show_icons=true&theme=visionary&hide_border=true" />
@@ -69,5 +60,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PabloVLS&color=00C853&style=flat-square" alt="profile count" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);">
+</p>
+
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
+</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"/>
