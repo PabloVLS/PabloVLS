@@ -9,8 +9,8 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloVLS&show_icons=true&theme=visionary&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&theme=visionary&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloVLS&show_icons=true&theme=highcontrast&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&theme=highcontrast&hide_border=true" />
 </div>
 
 <br>
