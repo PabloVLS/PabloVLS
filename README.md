@@ -65,5 +65,7 @@
   <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);">
+</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"/>
