@@ -189,34 +189,33 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=PabloVLS&color=5B0EC0&style=flat-square)
 
-<!--START_SECTION:mydata-->
-
-```json
 {
-   "About": {
+   "Will": {
       "CurrentFocus": "Getting better at my skills",
-      "Vision5Years": "To become the best SysAdmin I can be",
-      "StackOverflowReputation": "2,710"
-   },
-   "Favorites": {
-      "OperationalSystem": "Arch Linux",
-      "GUI": "XFCE",
-      "Kernel": "Zen",
-      "Shell": "ZSH",
-      "IDE": "Sublime Text",
-      "ProgrammingLanguage": "Python",
-      "MobileOS": "Android",
-      "Games": ["Chrono Trigger", "Driver: Parallel Lines", "Watch Dogs"],
-      "Music": {
-         "Genres": ["Hip Hop", "Lo-fi", "Jazz"],
-         "FavoriteSongs": ["MF DOOM - Datura stramonium", "MF DOOM - One beer", "Quasimodo - Bad character"],
-         "FavoriteArtists": ["MF DOOM", "Rav", "Mac DeMarco"]
+      "HowDoISeeMyselfIn5Years": "As the best SysAdmin I can be",
+      "CurrentStackOverflowReputation": "2,710",
+      "Favorites": {
+         "OperationalSystem": "Arch Linux",
+         "GUI": "XFCE",
+         "Kernel": "Zen",
+         "Interpreter": "ZSH",
+         "IDE": "Sublime text",
+         "Language": "Python",
+         "MobileOS": "Android",
+         "Games": ["Chrono Trigger", "Driver: Parallel Lines", "Watch Dogs"],
+         "Music": {
+            "Genres": ["Hip Hop", "Lo-fi", "Jazz"],
+            "Songs": ["MF DOOM - Datura stramonium", "MF DOOM - One beer", "Quasimodo - Bad character"],
+            "Artists": ["MF DOOM", "Rav", "Mac DeMarco"]
+         }
       }
    },
-   "FunFacts": {
-      "Fact": "The Main Library at Indiana University sinks over an inch every year because engineers failed to account for the weight of all the books.",
-      "Advice": "Eliminate the unnecessary.",
-      "Joke": "Why can't eggs have love? They will break up too soon.",
-      "RandomMeme": "https://i.imgflip.com/8d4weq.jpg"
+   "RandomStuff": {
+      "FunFactOfTheDay": "The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.",
+      "CoolAdviceOfTheDay": "Eliminate the unnecessary.",
+      "DadJokeOfTheDay": "Why can't eggs have love? They will break up too soon.",
+      "IsTodayChristmas": "Not this time",
+      "IsTodayMyBirthday": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8d4weq.jpg"
    }
 }
