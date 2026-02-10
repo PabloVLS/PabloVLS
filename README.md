@@ -53,10 +53,9 @@
 
 <br>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PabloVLS&show_icons=true&theme=visionary&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&theme=visionary&hide_border=true" />
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" />
+</p>
 <h3 align="center">Tech Stack & Tools 🛠️</h3>
 
 <p align="center">
