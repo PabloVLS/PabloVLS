@@ -12,6 +12,8 @@
 
 <br>
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PabloVLS&bg_color=0d1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" />
+
 <p align="center">
   <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
 </p>
