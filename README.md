@@ -54,14 +54,10 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterhsthywb-anuraghazra.vercel.app/api?username=PabloVLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloVLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
-  <img height="180em" src="https://github-readme-stats-git-masterhsthywb-anuraghazra.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer" width="100%" />
-</p>
 <h3 align="center">Tech Stack & Tools 🛠️</h3>
 
 <p align="center">
