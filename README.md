@@ -10,6 +10,13 @@
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.2);">
 </p>
 
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="via Giphy">
+</p>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloVLS&show_icons=true&theme=visionary&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PabloVLS&layout=compact&theme=visionary&hide_border=true" />
